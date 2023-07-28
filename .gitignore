@@ -7,7 +7,6 @@ yarn-error.log*
 # Build / Dist
 /dist/
 /build/
-/out/
 
 # Dependency directories
 /.pnp/
